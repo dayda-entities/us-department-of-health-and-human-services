@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1Z. Pertussis to Poliomyelitis, paralytic'
-created: '2020-11-10T16:18:11.082544'
-modified: '2021-04-17T03:02:30.917754'
+created: '2020-11-10T16:17:46.574013'
+modified: '2021-04-30T02:08:11.122322'
 state: active
 type: dataset
 tags:
@@ -15,8 +15,8 @@ tags:
   - Poliomyelitis
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/bve7-bjy2/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/bve7-bjy2/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/cqcc-kwwr/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/cqcc-kwwr/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
