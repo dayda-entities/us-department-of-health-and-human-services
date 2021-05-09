@@ -2,8 +2,8 @@
 title: >-
   U.S. State and Territorial Gathering Bans March 11-December 31, 2020 by County
   by Day
-created: '2021-03-16T19:39:52.253225'
-modified: '2021-04-25T14:50:43.319854'
+created: '2021-03-16T19:03:19.539663'
+modified: '2021-03-16T19:03:19.539669'
 state: active
 type: dataset
 tags:
