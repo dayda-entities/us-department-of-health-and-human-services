@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1K. Ehrlichiosis and Anaplasmosis, Anaplasma phagocytophilum
   infection to Ehrlichia chaffeensis infection
-created: '2021-03-16T18:40:27.018952'
-modified: '2021-03-16T18:40:27.018959'
+created: '2021-03-16T19:43:48.726399'
+modified: '2021-05-07T10:06:53.811268'
 state: active
 type: dataset
 tags:
