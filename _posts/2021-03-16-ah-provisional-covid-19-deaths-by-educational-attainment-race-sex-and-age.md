@@ -1,15 +1,25 @@
 ---
 title: 'AH Provisional COVID-19 Deaths by Educational Attainment, Race, Sex, and Age'
-created: '2021-03-16T19:01:04.234601'
-modified: '2021-03-16T19:01:04.234608'
+created: '2021-03-16T19:38:08.463226'
+modified: '2021-04-21T22:27:39.407385'
 state: active
 type: dataset
 tags:
   - Age
+  - Age Group
+  - All Causes
+  - Coronavirus
   - Covid 19
+  - Deaths
   - Education
+  - Hispanic Origin
+  - Mortality
+  - Nchs
+  - Nvss
+  - Provisional
   - Race
   - Sex
+  - United States
 groups: []
 csv_url: 'https://data.cdc.gov/api/views/3ts8-hsrw/rows.csv?accessType=DOWNLOAD'
 json_url: 'https://data.cdc.gov/api/views/3ts8-hsrw/rows.json?accessType=DOWNLOAD'
