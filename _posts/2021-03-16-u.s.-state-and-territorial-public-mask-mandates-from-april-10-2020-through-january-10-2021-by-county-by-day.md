@@ -2,8 +2,8 @@
 title: >-
   U.S. State and Territorial Public Mask Mandates From April 10, 2020 through
   January 10, 2021 by County by Day
-created: '2021-03-16T19:03:05.549109'
-modified: '2021-03-16T19:03:05.549116'
+created: '2021-03-16T19:26:34.948410'
+modified: '2021-03-16T19:26:34.948420'
 state: active
 type: dataset
 tags:
