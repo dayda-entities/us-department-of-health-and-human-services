@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1K. Ehrlichiosis and Anaplasmosis, Anaplasma phagocytophilum
   infection to Ehrlichia chaffeensis infection
-created: '2020-11-10T16:17:21.161394'
-modified: '2021-04-25T19:48:26.558355'
+created: '2020-11-10T16:17:45.159913'
+modified: '2021-04-21T22:40:21.737902'
 state: active
 type: dataset
 tags:
@@ -16,8 +16,8 @@ tags:
   - Nndss
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/bqse-bujd/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/bqse-bujd/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/6dep-qtzm/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/6dep-qtzm/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
