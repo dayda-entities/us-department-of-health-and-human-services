@@ -1,16 +1,21 @@
 ---
 title: AH Provisional COVID-19 Deaths by Hospital Referral Region
-created: '2021-03-16T19:15:36.433386'
-modified: '2021-04-15T19:21:43.296923'
+created: '2021-03-16T19:47:08.069886'
+modified: '2021-04-25T14:57:30.032582'
 state: active
 type: dataset
 tags:
+  - All Causes
   - Coronavirus
   - Covid 19
   - Deaths
   - Hospital Referral Region
   - Mortality
   - Nchs
+  - Nvss
+  - Provisional
+  - United States
+  - Weekly
 groups:
   - Older Adults Health Data Collection
 csv_url: 'https://data.cdc.gov/api/views/mqmc-4b9n/rows.csv?accessType=DOWNLOAD'
