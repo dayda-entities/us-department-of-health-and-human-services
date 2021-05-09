@@ -1,7 +1,7 @@
 ---
 title: Dietary Supplements Label Database (DSLD) - Product Information
-created: '2021-03-16T18:57:05.553182'
-modified: '2021-03-16T18:57:05.553190'
+created: '2021-03-16T19:35:51.239343'
+modified: '2021-04-21T22:22:56.356466'
 state: active
 type: dataset
 tags:
