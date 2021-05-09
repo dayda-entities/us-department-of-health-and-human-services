@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1L. Ehrlichiosis and Anaplasmosis, Ehrlichia ewingii infection
   to Giardiasis
-created: '2020-11-10T16:17:48.464617'
-modified: '2021-04-26T21:02:25.457719'
+created: '2020-11-10T16:17:33.847149'
+modified: '2021-04-30T02:01:46.613144'
 state: active
 type: dataset
 tags:
@@ -17,8 +17,8 @@ tags:
   - Undetermined
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/qpq4-k3td/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/qpq4-k3td/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/qisn-zjv7/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/qisn-zjv7/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
