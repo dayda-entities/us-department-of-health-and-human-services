@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1MM. Viral hemorrhagic fevers, Crimean-Congo hemorrhagic fever
   virus to Guanarito virus
-created: '2020-11-10T16:17:44.612828'
-modified: '2021-04-21T22:17:17.747716'
+created: '2020-11-10T16:17:21.420163'
+modified: '2021-04-21T22:37:30.330507'
 state: active
 type: dataset
 tags:
@@ -17,8 +17,8 @@ tags:
   - Viral Hemorrhagic Fevers
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/2i8i-dz8i/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/2i8i-dz8i/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/3bix-jq57/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/3bix-jq57/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
