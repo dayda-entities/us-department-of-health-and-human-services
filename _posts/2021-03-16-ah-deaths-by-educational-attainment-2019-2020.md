@@ -1,26 +1,16 @@
 ---
 title: 'AH Deaths by Educational Attainment, 2019-2020'
-created: '2021-03-16T19:38:00.601655'
-modified: '2021-04-25T14:48:57.459743'
+created: '2021-03-16T19:00:54.050466'
+modified: '2021-03-16T19:00:54.050472'
 state: active
 type: dataset
 tags:
   - Age
-  - Age Group
-  - All Causes
-  - Coronavirus
   - Covid 19
   - Deaths
   - Education
-  - Hispanic Origin
-  - Mortality
-  - Nchs
-  - Nvss
-  - Provisional
   - Race
   - Sex
-  - United States
-  - Yearly
 groups: []
 csv_url: 'https://data.cdc.gov/api/views/4ueh-89p9/rows.csv?accessType=DOWNLOAD'
 json_url: 'https://data.cdc.gov/api/views/4ueh-89p9/rows.json?accessType=DOWNLOAD'
