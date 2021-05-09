@@ -1,7 +1,7 @@
 ---
 title: Dietary Supplements Label Database (DSLD) - Ingredients
-created: '2021-03-16T19:06:53.497706'
-modified: '2021-03-16T19:06:53.497713'
+created: '2021-03-16T19:41:39.090074'
+modified: '2021-04-21T22:33:23.408120'
 state: active
 type: dataset
 tags:
