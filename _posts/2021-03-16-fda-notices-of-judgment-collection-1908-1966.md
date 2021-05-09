@@ -1,7 +1,7 @@
 ---
 title: FDA Notices of Judgment Collection (1908-1966)
-created: '2021-03-16T19:42:42.044766'
-modified: '2021-04-25T14:53:48.487121'
+created: '2021-03-16T19:08:32.935249'
+modified: '2021-03-16T19:08:32.935255'
 state: active
 type: dataset
 tags:
