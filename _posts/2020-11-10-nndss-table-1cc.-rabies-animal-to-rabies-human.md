@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1CC. Rabies, Animal to Rabies, Human'
-created: '2020-11-10T16:17:49.356863'
-modified: '2021-04-17T02:59:43.938650'
+created: '2020-11-10T16:17:20.596727'
+modified: '2021-04-21T22:27:16.300953'
 state: active
 type: dataset
 tags:
@@ -14,8 +14,8 @@ tags:
   - Rabies
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/usyq-s7ip/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/usyq-s7ip/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/mi28-ze7h/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/mi28-ze7h/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
