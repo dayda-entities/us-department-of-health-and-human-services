@@ -2,8 +2,8 @@
 title: >-
   U.S. State and Territorial Orders Closing and Reopening Restaurants Issued
   from March 11, 2020 through December 31, 2020 by County by Day
-created: '2021-03-16T19:50:22.860389'
-modified: '2021-04-26T21:03:45.295730'
+created: '2021-03-16T18:42:37.003701'
+modified: '2021-03-16T18:42:37.003708'
 state: active
 type: dataset
 tags:
