@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1CC. Rabies, Animal to Rabies, Human'
-created: '2021-03-16T18:45:13.864116'
-modified: '2021-03-16T18:45:13.864123'
+created: '2021-03-16T19:28:29.924352'
+modified: '2021-05-07T10:03:35.797737'
 state: active
 type: dataset
 tags:
