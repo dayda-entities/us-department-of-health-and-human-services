@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1X. Meningococcal disease,  Other serogroups to Meningococcal
   disease, Unknown serogroup
-created: '2020-11-10T16:18:49.777384'
-modified: '2021-04-21T22:25:34.212718'
+created: '2020-11-10T16:17:46.903595'
+modified: '2021-04-21T22:47:59.770001'
 state: active
 type: dataset
 tags:
@@ -16,8 +16,8 @@ tags:
   - Unknown Serogroup
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/aagc-37gx/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/aagc-37gx/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/d7xj-2da2/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/d7xj-2da2/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
