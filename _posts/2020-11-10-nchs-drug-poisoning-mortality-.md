@@ -1,7 +1,7 @@
 ---
-title: NCHS - Drug Poisoning Mortality by County United States
-created: '2020-11-10T16:17:34.330040'
-modified: '2021-04-17T02:41:40.346685'
+title: NCHS - Drug Poisoning Mortality by State United States
+created: '2020-11-10T16:18:12.947735'
+modified: '2021-04-30T02:07:04.753612'
 state: active
 type: dataset
 tags:
@@ -13,8 +13,8 @@ tags:
   - State
   - United States
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/rpvx-m2md/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/rpvx-m2md/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/xbxb-epbu/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/xbxb-epbu/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
@@ -22,7 +22,7 @@ This dataset describes drug poisoning deaths at the U.S. and state level by sele
 
 Deaths are classified using the International Classification of Diseases, Tenth Revision (ICD–10). Drug-poisoning deaths are defined as having ICD–10 underlying cause-of-death codes X40–X44 (unintentional), X60–X64 (suicide), X85 (homicide), or Y10–Y14 (undetermined intent).
 
-Estimates are based on the National Vital Statistics System multiple cause-of-death mortality files (1). Age-adjusted death rates (deaths per 100,000 U.S. standard population for 2000) are calculated using the direct method. Populations used for computing death rates for 2011–2017 are postcensal estimates based on the 2010 U.S. census. Rates for census years are based on populations enumerated in the corresponding censuses. Rates for noncensus years before 2010 are revised using updated intercensal population estimates and may differ from rates previously published.
+Estimates are based on the National Vital Statistics System multiple cause-of-death mortality files (1). Age-adjusted death rates (deaths per 100,000 U.S. standard population for 2000) are calculated using the direct method. Populations used for computing death rates for 2011–2016 are postcensal estimates based on the 2010 U.S. census. Rates for census years are based on populations enumerated in the corresponding censuses. Rates for noncensus years before 2010 are revised using updated intercensal population estimates and may differ from rates previously published.
 
 Death rates for some states and years may be low due to a high number of unresolved pending cases or misclassification of ICD–10 codes for unintentional poisoning as R99, “Other ill-defined and unspecified causes of mortality” (2). For example, this issue is known to affect New Jersey in 2009 and West Virginia in 2005 and 2009 but also may affect other years and other states. Drug poisoning death rates may be underestimated in those instances.
 
