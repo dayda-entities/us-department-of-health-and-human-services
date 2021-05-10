@@ -1,17 +1,17 @@
 ---
 title: >-
-  Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014,  Region 10
-  - Seattle
-created: '2020-11-10T16:18:20.552387'
-modified: '2021-03-16T18:45:26.730384'
+  Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014,  Region 9 -
+  San Francisco
+created: '2020-11-10T16:18:35.481029'
+modified: '2021-04-06T03:22:57.401359'
 state: active
 type: dataset
 tags:
   - Cdc
   - Centers For Disease Control And Prevention
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/5nuu-6upy/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/5nuu-6upy/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/xsu4-4sk9/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/xsu4-4sk9/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
