@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1S. Invasive pneumococcal disease, all ages, Confirmed to
   Invasive pneumococcal disease, all ages, Probable
-created: '2020-11-10T16:17:17.353665'
-modified: '2021-04-25T14:56:11.005170'
+created: '2020-11-10T16:17:48.785265'
+modified: '2021-04-21T22:24:43.224906'
 state: active
 type: dataset
 tags:
@@ -17,8 +17,8 @@ tags:
   - Probable
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/drfe-vxdh/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/drfe-vxdh/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/rwap-xbst/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/rwap-xbst/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
