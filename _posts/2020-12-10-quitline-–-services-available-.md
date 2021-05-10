@@ -1,7 +1,9 @@
 ---
-title: Quitline – Services Available – Counseling - 2010 To Present
-created: '2020-12-10T22:17:53.219708'
-modified: '2021-04-25T14:48:57.614626'
+title: >-
+  Quitline – Services Available – Hours Of Operation And Available Languages -
+  2010 To Present
+created: '2020-12-10T22:17:53.055505'
+modified: '2021-04-25T14:52:44.598462'
 state: active
 type: dataset
 tags:
@@ -18,8 +20,8 @@ tags:
   - Services
   - State System
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/66cx-b9a4/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/66cx-b9a4/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/vtt8-av2v/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/vtt8-av2v/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
