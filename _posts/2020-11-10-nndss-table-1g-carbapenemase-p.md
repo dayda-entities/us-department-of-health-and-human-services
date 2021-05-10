@@ -1,13 +1,13 @@
 ---
 title: >-
-  NNDSS - TABLE 1G. Carbapenemase-producing carbapenem-resistant
-  Enterobacteriaceae to Chancroid
-created: '2020-11-10T16:18:50.434805'
-modified: '2021-04-17T02:56:13.289376'
+  NNDSS - Table 1G. Carbapenemase-producing carbapenem-resistant
+  Enterobacteriaceae to Chlamydia trachomatis infection
+created: '2020-11-10T16:16:33.688843'
+modified: '2021-04-17T03:00:35.100362'
 state: active
 type: dataset
 tags:
-  - '2019'
+  - '2020'
   - Carbapenemase Producing Carbapenem Resistant Enterobacteriaceae
   - Chancroid
   - Chlamydia Trachomatis Infection
@@ -16,24 +16,25 @@ tags:
   - Nndss
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/phwv-i65c/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/phwv-i65c/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/cds4-6y7t/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/cds4-6y7t/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-NNDSS - Table 1G. Carbapenemase-producing carbapenem-resistant Enterobacteriaceae to Chancroid - 2019. In this Table, provisional cases* of notifiable diseases are displayed for United States, U.S. territories, and Non-U.S. residents. 
+NNDSS - Table 1G. Carbapenemase-producing carbapenem-resistant Enterobacteriaceae to Chlamydia trachomatis infection - 2020. In this Table, provisional cases* of notifiable diseases are displayed for United States, U.S. territories, and Non-U.S. residents.
 
 Note: 
-This table contains provisional cases of national notifiable diseases from the National Notifiable Diseases Surveillance System (NNDSS). NNDSS data from the 50 states, New York City, the District of Columbia and the U.S. territories are collated and published weekly on the NNDSS Data and Statistics web page (https://wwwn.cdc.gov/nndss/data-and-statistics.html). Cases reported by state health departments to CDC for weekly publication are provisional because of the time needed to complete case follow-up. Therefore, numbers presented in later weeks may reflect changes made to these counts as additional information becomes available. The national surveillance case definitions used to define a case are available on the NNDSS web site at https://wwwn.cdc.gov/nndss/. Information about the weekly provisional data and guides to interpreting data are available at: https://wwwn.cdc.gov/nndss/infectious-tables.html 
+This table contains provisional cases of national notifiable diseases from the National Notifiable Diseases Surveillance System (NNDSS). NNDSS data from the 50 states, New York City, the District of Columbia and the U.S. territories are collated and published weekly on the NNDSS Data and Statistics web page (https://wwwn.cdc.gov/nndss/data-and-statistics.html). Cases reported by state health departments to CDC for weekly publication are provisional because of the time needed to complete case follow-up. Therefore, numbers presented in later weeks may reflect changes made to these counts as additional information becomes available. The national surveillance case definitions used to define a case are available on the NNDSS web site at https://wwwn.cdc.gov/nndss/. Information about the weekly provisional data and guides to interpreting data are available at: https://wwwn.cdc.gov/nndss/infectious-tables.html. 
 
 Footnotes:
 U: Unavailable — The reporting jurisdiction was unable to send the data to CDC or CDC was unable to process the data.
 -: No reported cases — The reporting jurisdiction did not submit any cases to CDC.
 N: Not reportable — The disease or condition was not reportable by law, statute, or regulation in the reporting jurisdiction.
 NN: Not nationally notifiable — This condition was not designated as being nationally notifiable.
-NP: Nationally notifiable but not published — CDC does not have data because of changes in how conditions are categorized.
+NP: Nationally notifiable but not published.
+NC: Not calculated — There is insufficient data available to support the calculation of this statistic.
 Cum: Cumulative year-to-date counts.
 Max: Maximum — Maximum case count during the previous 52 weeks.
-* Case counts for reporting years 2018 and 2019 are provisional and subject to change. Cases are assigned to the reporting jurisdiction submitting the case to NNDSS, if the case's country of usual residence is the US, a US territory, unknown, or null (i.e. country not reported); otherwise, the case is assigned to the 'Non-US Residents' category. For further information on interpretation of these data, see https://wwwn.cdc.gov/nndss/document/Users_guide_WONDER_tables_cleared_final.pdf. 
-† Previous 52 week maximum and cumulative YTD are determined from periods of time when the condition was reportable in the jurisdiction (i.e., may be less than 52 weeks of data or incomplete YTD data). 
-§ Data for Carbapenemase-producing Carbapenem-resistant enterobacteriaceae (CP-CRE) will be displayed in this table after the CDC obtains Office of Management and Budget Paperwork Reduction Act approval to receive data for this condition.
+* Case counts for reporting years 2019 and 2020 are provisional and subject to change. Cases are assigned to the reporting jurisdiction submitting the case to NNDSS, if the case's country of usual residence is the U.S., a U.S. territory, unknown, or null (i.e. country not reported); otherwise, the case is assigned to the 'Non-U.S. Residents' category. Country of usual residence is currently not reported by all jurisdictions or for all conditions. For further information on interpretation of these data, see https://wwwn.cdc.gov/nndss/document/Users_guide_WONDER_tables_cleared_final.pdf.
+†Previous 52 week maximum and cumulative YTD are determined from periods of time when the condition was reportable in the jurisdiction (i.e., may be less than 52 weeks of data or incomplete YTD data). 
+§ Reporting jurisdictions were informed CDC could receive data for this condition in August 2019. Please note there will be a delay in reporting of case notifications for this condition to CDC.
