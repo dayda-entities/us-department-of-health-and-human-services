@@ -1,7 +1,7 @@
 ---
 title: NNDSS - TABLE 1II. Tetanus to Trichinellosis
-created: '2020-11-10T16:17:20.616136'
-modified: '2021-04-17T02:37:26.530690'
+created: '2020-11-10T16:17:45.252560'
+modified: '2021-04-17T02:39:37.066348'
 state: active
 type: dataset
 tags:
@@ -14,8 +14,8 @@ tags:
   - Trichinellosis
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/2993-4v7d/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/2993-4v7d/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/6yz5-ufy2/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/6yz5-ufy2/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
