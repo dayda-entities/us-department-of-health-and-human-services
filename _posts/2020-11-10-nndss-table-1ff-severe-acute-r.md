@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1FF. Severe acute respiratory syndrome-associated coronavirus
   disease to Shigellosis
-created: '2020-11-10T16:17:48.076665'
-modified: '2021-04-17T03:01:30.105665'
+created: '2020-11-10T16:18:49.658492'
+modified: '2021-04-25T14:45:41.629582'
 state: active
 type: dataset
 tags:
@@ -16,8 +16,8 @@ tags:
   - Shigellosis
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/mvsw-zuaf/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/mvsw-zuaf/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/5wqm-pm27/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/5wqm-pm27/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
