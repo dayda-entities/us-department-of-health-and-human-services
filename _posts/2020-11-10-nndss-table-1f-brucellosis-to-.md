@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1F. Brucellosis to Candida auris, clinical'
-created: '2020-11-10T16:17:45.714972'
-modified: '2021-04-17T02:17:08.514136'
+created: '2020-11-10T16:17:17.362044'
+modified: '2021-04-30T02:06:55.608032'
 state: active
 type: dataset
 tags:
@@ -15,8 +15,8 @@ tags:
   - Nndss
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/8rsa-pnhx/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/8rsa-pnhx/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/w54d-atna/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/w54d-atna/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
@@ -35,4 +35,4 @@ Cum: Cumulative year-to-date counts.
 Max: Maximum — Maximum case count during the previous 52 weeks.
 * Case counts for reporting years 2018 and 2019 are provisional and subject to change. Cases are assigned to the reporting jurisdiction submitting the case to NNDSS, if the case's country of usual residence is the US, a US territory, unknown, or null (i.e. country not reported); otherwise, the case is assigned to the 'Non-US Residents' category. For further information on interpretation of these data, see https://wwwn.cdc.gov/nndss/document/Users_guide_WONDER_tables_cleared_final.pdf. 
 † Previous 52 week maximum and cumulative YTD are determined from periods of time when the condition was reportable in the jurisdiction (i.e., may be less than 52 weeks of data or incomplete YTD data). 
-§ Reporting jurisdictions were informed CDC could receive data for this condition in August 2019. Please note there will be a delay in reporting of case notifications for this condition to CDC.
+§ Candida auris, clinical colonization/screening cases are not included in this table. These data are available on the Mycotic Diseases Branch's Tracking Candida auris page (https://www.cdc.gov/fungal/candida-auris/tracking-c-auris.html).
