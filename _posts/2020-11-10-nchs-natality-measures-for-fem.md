@@ -1,26 +1,27 @@
 ---
-title: NCHS - Natality Measures for Females by Hispanic Origin Subgroup United States
-created: '2020-11-10T16:18:14.157736'
-modified: '2021-04-17T02:53:18.134086'
+title: NCHS - Natality Measures for Females by Race and Hispanic Origin United States
+created: '2020-11-10T16:18:14.329986'
+modified: '2021-04-25T14:57:06.163320'
 state: active
 type: dataset
 tags:
-  - Birth
-  - Birth Rate
+  - Birth Rates
+  - Births
   - Ethnicity
-  - Fertility Rate
+  - Fertility Rates
   - Hispanic Origin
   - Nchs
+  - Race
   - United States
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/s54h-bixi/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/s54h-bixi/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/89yk-m38d/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/89yk-m38d/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset includes live births, birth rates, and fertility rates by Hispanic origin of mother in the United States since 1989. 
+This dataset includes live births, birth rates, and fertility rates by race of mother in the United States since 1960. 
 
-National data on births by Hispanic origin exclude data for Louisiana, New Hampshire, and Oklahoma in 1989; New Hampshire and Oklahoma in 1990; and New Hampshire in 1991 and 1992. Birth and fertility rates for the Central and South American population includes other and unknown Hispanic. Information on reporting Hispanic origin is detailed in the Technical Appendix for the 1999 public-use natality data file (see ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/DVS/natality/Nat1999doc.pdf).
+Data availability varies by race and ethnicity groups. All birth data by race before 1980 are based on race of the child. Since 1980, birth data by race are based on race of the mother. For race, data are available for Black and White births since 1960, and for American Indians/Alaska Native and Asian/Pacific Islander births since 1980. Data on Hispanic origin are available since 1989. Teen birth rates for specific racial and ethnic categories are also available since 1989. From 2003 through 2015, the birth data by race were based on the “bridged” race categories (5). Starting in 2016, the race categories for reporting birth data changed; the new race and Hispanic origin categories are: Non-Hispanic, Single Race White; Non-Hispanic, Single Race Black; Non-Hispanic, Single Race American Indian/Alaska Native; Non-Hispanic, Single Race Asian; and, Non-Hispanic, Single Race Native Hawaiian/Pacific Islander (5,6). Birth data by the prior, “bridged” race (and Hispanic origin) categories are included through 2018 for comparison.
 
 SOURCES
 
