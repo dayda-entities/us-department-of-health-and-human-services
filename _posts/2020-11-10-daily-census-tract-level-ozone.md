@@ -1,7 +1,7 @@
 ---
 title: 'Daily Census Tract-Level Ozone Concentrations, 2001-2005'
-created: '2020-11-10T16:18:17.073615'
-modified: '2021-05-01T07:00:04.122649'
+created: '2020-11-10T16:18:46.578274'
+modified: '2021-05-05T08:04:28.737700'
 state: active
 type: dataset
 tags:
@@ -10,8 +10,8 @@ tags:
   - Environmental Health
   - Ozone
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/v76h-zdce/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/v76h-zdce/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/d3c4-tq79/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/d3c4-tq79/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
@@ -19,10 +19,10 @@ This dataset provides modeled predictions of ozone levels from the EPA's Downsca
 
 Learn more about outdoor air quality on the Tracking Network's website: https://ephtracking.cdc.gov/showAirLanding.action.
 
-By using these data, you signify your agreement to comply with the following requirements:
-1. Use the data for statistical reporting and analysis only.
-2. Do not attempt to learn the identity of any person included in the data and do not combine these data with other data for the purpose of matching records to identify individuals.
-3. Do not disclose of or make use of the identity of any person or establishment discovered inadvertently and report the discovery to: trackingsupport@cdc.gov.
-4. Do not imply or state, either in written or oral form, that interpretations based on the data are those of the original data sources and CDC unless the data user and data source are formally collaborating.
-5. Acknowledge, in all reports or presentations based on these data, the original source of the data and CDC.
-6. Suggested citation: Centers for Disease Control and Prevention. National Environmental Public Health Tracking Network. Web. Accessed: insert date. www.cdc.gov/ephtracking.
+By using these data, you signify your agreement to comply with the following requirements: 
+1.	Use the data for statistical reporting and analysis only. 
+2.	Do not attempt to learn the identity of any person included in the data and do not combine these data with other data for the purpose of matching records to identify individuals. 
+3.	Do not disclose of or make use of the identity of any person or establishment discovered inadvertently and report the discovery to: trackingsupport@cdc.gov. 
+4.	Do not imply or state, either in written or oral form, that interpretations based on the data are those of the original data sources and CDC unless the data user and data source are formally collaborating. 
+5.	Acknowledge, in all reports or presentations based on these data, the original source of the data and CDC. 
+6.	Suggested citation: Centers for Disease Control and Prevention. National Environmental Public Health Tracking Network. Web. Accessed: insert date. www.cdc.gov/ephtracking.
