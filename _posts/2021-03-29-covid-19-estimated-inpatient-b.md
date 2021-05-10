@@ -1,18 +1,17 @@
 ---
-title: >-
-  COVID-19 Estimated Inpatient Beds Occupied by COVID-19 Patients by State
-  Timeseries
-created: '2021-03-29T23:35:41.822789'
-modified: '2021-05-08T21:08:19.283263'
+title: COVID-19 Estimated Inpatient Beds Occupied by State Timeseries
+created: '2021-03-29T23:35:00.105952'
+modified: '2021-05-08T21:08:08.842724'
 state: active
 type: dataset
 tags:
   - Covid
   - Covid 19
+  - Covid19
   - Hhs Covid 19
 groups: []
-csv_url: 'https://healthdata.gov/api/views/py8k-j5rq/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://healthdata.gov/api/views/py8k-j5rq/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://healthdata.gov/api/views/jjp9-htie/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://healthdata.gov/api/views/jjp9-htie/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
