@@ -1,18 +1,20 @@
 ---
 title: >-
-  Selected Trend Table from Health, United States, 2011. Low birthweight live
-  births, by race and Hispanic origin of mother, and state United States, 2000 -
-  2002, 2003 - 2005, and 2006 - 2008
-created: '2020-11-10T16:18:18.448219'
-modified: '2021-04-06T03:12:18.274979'
+  Selected Trend Table from Health, United States, 2011. Vaccination coverage
+  among children 19 - 35 months of age for selected diseases, by race, Hispanic
+  origin, poverty level, and location of residence in metropolitan statistical
+  area United States, sel
+created: '2020-11-10T16:18:45.196123'
+modified: '2021-04-21T22:48:53.724644'
 state: active
 type: dataset
 tags:
+  - Children
   - Hus
-  - Low Birthweight
+  - Vaccination
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/m4es-3af4/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/m4es-3af4/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/nkri-ptxd/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/nkri-ptxd/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
