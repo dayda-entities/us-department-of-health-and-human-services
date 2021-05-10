@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1BB. Q fever, Total to Q fever, Chronic'
-created: '2020-11-10T16:17:22.220025'
-modified: '2021-04-21T22:35:22.251539'
+created: '2020-11-10T16:17:49.740664'
+modified: '2021-04-21T22:24:05.665979'
 state: active
 type: dataset
 tags:
@@ -15,8 +15,8 @@ tags:
   - Total
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/mkns-9vjv/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/mkns-9vjv/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/ygrm-jkkz/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/ygrm-jkkz/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
