@@ -1,16 +1,15 @@
 ---
-title: Provisional COVID-19 Death Counts by Place of Death and Age Group
-created: '2020-11-10T16:18:06.917102'
-modified: '2021-04-21T22:10:44.937064'
+title: Provisional COVID-19 Death Counts by Place of Death and State
+created: '2020-11-10T16:16:37.972102'
+modified: '2021-05-07T10:08:00.036513'
 state: active
 type: dataset
 tags:
-  - Age
-  - Age Group
-  - All Causes
   - Coronavirus
   - Covid 19
   - Deaths
+  - Influenza
+  - Monthly
   - Mortality
   - Nchs
   - Nvss
@@ -18,14 +17,13 @@ tags:
   - Pneumonia
   - Provisional
   - Puerto Rico
-  - Region
   - State
   - United States
-groups:
-  - Older Adults Health Data Collection
-csv_url: 'https://data.cdc.gov/api/views/g4z9-a9d3/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/g4z9-a9d3/rows.json?accessType=DOWNLOAD'
+  - Yearly
+groups: []
+csv_url: 'https://data.cdc.gov/api/views/uggs-hy5q/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/uggs-hy5q/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Deaths involving coronavirus disease 2019 (COVID-19) and pneumonia reported to NCHS by place of death, age, and state.
+Deaths involving coronavirus disease 2019 (COVID-19), pneumonia and influenza reported to NCHS by place of death and state, United States.
