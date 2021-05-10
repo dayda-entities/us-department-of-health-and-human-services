@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1P.  Hemolytic uremic syndrome post-diarrheal to Hepatitis
   (viral, acute, by type), B
-created: '2020-11-10T16:17:49.454166'
-modified: '2021-04-30T02:06:44.019997'
+created: '2020-11-10T16:16:31.095346'
+modified: '2021-04-21T22:26:49.876273'
 state: active
 type: dataset
 tags:
@@ -18,8 +18,8 @@ tags:
   - Nndss
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/wgyw-mswy/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/wgyw-mswy/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/y4x9-2nqn/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/y4x9-2nqn/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
