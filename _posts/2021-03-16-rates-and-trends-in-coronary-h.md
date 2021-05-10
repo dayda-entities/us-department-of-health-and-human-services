@@ -2,8 +2,8 @@
 title: >-
   Rates and Trends in Coronary Heart Disease and Stroke Mortality Data Among US
   Adults (35+) by County – 1999-2018
-created: '2021-03-16T19:53:30.525635'
-modified: '2021-04-21T22:51:25.269742'
+created: '2021-03-16T18:40:00.219676'
+modified: '2021-03-16T18:40:00.219685'
 state: active
 type: dataset
 tags:
