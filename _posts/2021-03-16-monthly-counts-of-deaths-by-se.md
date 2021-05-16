@@ -1,7 +1,7 @@
 ---
-title: 'Monthly Counts of Deaths by Select Causes, 2020-2021'
-created: '2021-03-16T19:53:16.304855'
-modified: '2021-05-07T10:08:39.349084'
+title: 'Monthly Counts of Deaths by Select Causes, 2014-2019'
+created: '2021-03-16T19:32:15.826578'
+modified: '2021-04-25T19:48:34.547017'
 state: active
 type: dataset
 tags:
@@ -11,8 +11,6 @@ tags:
   - Causes Of Death
   - Cerebrovascular Disease
   - Chronic Lower Respiratory Disease
-  - Coronavirus
-  - Covid 19
   - Deaths
   - Diabetes
   - Diseases Of Heart
@@ -27,16 +25,15 @@ tags:
   - Nchs
   - Nvss
   - Pneumonia
-  - Provisional
   - Respiratory Disease
   - Septicemia
   - Suicide
   - Unintentional Injuries
   - United States
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/9dzk-mvmi/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/9dzk-mvmi/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/bxq8-mugm/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/bxq8-mugm/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Provisional counts of deaths by the month the deaths occurred and by select causes of death for 2020-2021.
+Final counts of deaths by the month the deaths occurred and by select causes of death for 2014-2019.
