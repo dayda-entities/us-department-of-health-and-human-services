@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1M. Gonorrhea to Haemophilus influenzae, invasive disease (age
   <5 years), Serotype b
-created: '2020-11-10T16:17:47.482013'
-modified: '2021-04-25T14:40:52.339155'
+created: '2020-11-10T16:16:31.861643'
+modified: '2021-04-17T03:04:16.726855'
 state: active
 type: dataset
 tags:
@@ -20,8 +20,8 @@ tags:
   - Serotype B
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/h4wb-nae4/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/h4wb-nae4/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/vx8v-gfyf/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/vx8v-gfyf/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
