@@ -1,7 +1,7 @@
 ---
 title: NNDSS - TABLE 1H. Cholera to Coccidioidomycosis
-created: '2020-11-10T16:17:49.570672'
-modified: '2021-04-21T22:22:23.631919'
+created: '2020-11-10T16:18:50.473632'
+modified: '2021-04-25T14:41:05.690634'
 state: active
 type: dataset
 tags:
@@ -13,8 +13,8 @@ tags:
   - Nndss
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/xsi2-33p5/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/xsi2-33p5/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/wycc-ffia/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/wycc-ffia/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
