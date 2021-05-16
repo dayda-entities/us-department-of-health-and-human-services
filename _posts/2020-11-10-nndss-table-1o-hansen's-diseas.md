@@ -1,7 +1,7 @@
 ---
 title: NNDSS - TABLE 1O.  Hansen's disease to Hantavirus pulmonary syndrome
-created: '2020-11-10T16:17:45.981456'
-modified: '2021-04-21T22:31:34.635381'
+created: '2020-11-10T16:18:50.340887'
+modified: '2021-04-30T02:09:55.110351'
 state: active
 type: dataset
 tags:
@@ -15,8 +15,8 @@ tags:
   - Non Hantavirus Pulmonary Syndrome
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/azpx-5hzx/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/azpx-5hzx/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/bhxw-k5sb/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/bhxw-k5sb/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
