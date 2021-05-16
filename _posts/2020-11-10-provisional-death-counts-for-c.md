@@ -1,34 +1,28 @@
 ---
-title: Provisional Death Counts for Coronavirus Disease (COVID-19)
-created: '2020-11-10T16:16:27.563367'
-modified: '2021-05-05T08:04:40.795351'
+title: >-
+  Provisional Death Counts for Coronavirus Disease (COVID-19) Distribution of
+  Deaths by Race and Hispanic Origin
+created: '2020-11-10T16:16:37.680335'
+modified: '2021-05-14T15:40:26.836954'
 state: active
 type: dataset
 tags:
-  - Age
-  - Age Group
-  - All Causes
   - Coronavirus
   - Covid 19
   - Deaths
-  - Influenza
+  - Hispanic Origin
   - Mortality
   - Nchs
-  - Pneumonia
+  - Nvss
   - Provisional
-  - Puerto Rico
+  - Race
   - State
   - United States
-  - Weekly
-groups:
-  - Older Adults Health Data Collection
-csv_url: 'https://data.cdc.gov/api/views/hc4f-j6nb/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/hc4f-j6nb/rows.json?accessType=DOWNLOAD'
+groups: []
+csv_url: 'https://data.cdc.gov/api/views/pj7m-y5uh/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/pj7m-y5uh/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset is no longer updated.  Please see the following datasets for recent data:
-
-Provisional COVID-19 Deaths by Week (https://data.cdc.gov/dataset/Provisional-COVID-19-Death-Counts-by-Week-Ending-D/r8kw-7aab/)
-
-Provisional COVID-19 Deaths by Sex, Age, and State (https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-by-Sex-Age-and-S/9bhg-hcku)
+This data file contains the following indicators that can be used to illustrate potential differences in the burden of deaths due to COVID-19 according to race and ethnicity:
+count of COVID-19 deaths, distribution of COVID-19 deaths, unweighted distribution of population, and weighted distribution of population.
