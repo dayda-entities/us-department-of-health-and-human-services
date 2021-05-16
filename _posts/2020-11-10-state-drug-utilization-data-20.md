@@ -1,7 +1,7 @@
 ---
-title: State Drug Utilization Data 2014
-created: '2020-11-10T16:17:23.014077'
-modified: '2021-04-13T00:10:15.917730'
+title: State Drug Utilization Data 2006
+created: '2020-11-10T16:17:23.912479'
+modified: '2021-04-13T19:50:18.965874'
 state: active
 type: dataset
 tags:
@@ -9,8 +9,8 @@ tags:
   - Medicaid Reimbursements
   - Pharmacy
 groups: []
-csv_url: 'https://data.medicaid.gov/api/views/955u-9h9g/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.medicaid.gov/api/views/955u-9h9g/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.medicaid.gov/api/views/e7is-4a3j/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.medicaid.gov/api/views/e7is-4a3j/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
