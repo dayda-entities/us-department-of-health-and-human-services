@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1C. Arboviral diseases, St. Louis encephalitis virus to Western
   equine encephalitis virus
-created: '2020-11-10T16:17:15.892259'
-modified: '2021-04-21T22:17:30.014194'
+created: '2020-11-10T16:17:45.312045'
+modified: '2021-04-17T02:26:13.136955'
 state: active
 type: dataset
 tags:
@@ -16,8 +16,8 @@ tags:
   - Western Equine Encephalitis Virus Disease
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/4ewf-ciy6/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/4ewf-ciy6/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/7kht-czfj/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/7kht-czfj/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
