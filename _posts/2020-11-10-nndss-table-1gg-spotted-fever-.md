@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1GG. Spotted fever rickettsiosis, Confirmed to Smallpox'
-created: '2020-11-10T16:17:47.898775'
-modified: '2021-04-21T22:33:56.220109'
+created: '2020-11-10T16:18:49.604964'
+modified: '2021-04-17T02:51:26.873366'
 state: active
 type: dataset
 tags:
@@ -14,8 +14,8 @@ tags:
   - Spotted Fever Rickettsiosis Probable
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/mv87-mh7a/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/mv87-mh7a/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/rihk-iawc/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/rihk-iawc/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
