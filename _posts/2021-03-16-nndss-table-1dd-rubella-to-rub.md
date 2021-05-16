@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1DD. Rubella to Rubella, congenital syndrome'
-created: '2021-03-16T19:29:49.664526'
-modified: '2021-05-07T10:03:50.262327'
+created: '2021-03-16T18:47:15.072625'
+modified: '2021-03-16T18:47:15.072632'
 state: active
 type: dataset
 tags:
