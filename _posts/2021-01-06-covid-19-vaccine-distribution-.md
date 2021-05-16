@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Vaccine Distribution Allocations by Jurisdiction - Moderna
 created: '2021-01-06T22:22:08.636769'
-modified: '2021-05-07T10:04:41.107913'
+modified: '2021-05-15T11:12:06.608303'
 state: active
 type: dataset
 tags:
