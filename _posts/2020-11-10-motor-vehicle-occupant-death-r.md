@@ -1,17 +1,17 @@
 ---
 title: >-
-  Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, Region 7 -
-  Kansas City
-created: '2020-11-10T16:18:35.878369'
-modified: '2021-04-30T02:07:43.770325'
+  Motor Vehicle Occupant Death Rate, by Age and Gender, 2012 & 2014, Region 8 -
+  Denver
+created: '2020-11-10T16:18:18.735455'
+modified: '2021-03-16T19:17:24.478146'
 state: active
 type: dataset
 tags:
   - Cdc
   - Centers For Disease Control And Prevention
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/u5yv-9uts/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/u5yv-9uts/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/8i5t-42wz/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/8i5t-42wz/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
