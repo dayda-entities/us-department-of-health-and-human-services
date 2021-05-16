@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1J. Dengue virus infections, Dengue to Severe dengue'
-created: '2020-11-10T16:17:49.437030'
-modified: '2021-04-21T22:40:16.997402'
+created: '2020-11-10T16:17:21.538444'
+modified: '2021-04-25T14:59:25.229320'
 state: active
 type: dataset
 tags:
@@ -15,8 +15,8 @@ tags:
   - Severe Dengue
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/w7ew-4aqz/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/w7ew-4aqz/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/29js-qshz/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/29js-qshz/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
