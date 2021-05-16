@@ -1,18 +1,19 @@
 ---
 title: >-
-  Selected Trend Table from Health, United States, 2011. Leading causes of death
-  and numbers of deaths, by sex, race, and Hispanic origin United States, 1980
-  and 2009
-created: '2020-11-10T16:18:45.770121'
-modified: '2021-04-21T22:21:18.722582'
+  Selected Trend Table from Health, United States, 2011. Health conditions among
+  children under 18 years of age, by selected characteristics United States,
+  average annual, selected years 1997 - 1999 through 2008 - 2010
+created: '2020-11-10T16:18:45.265552'
+modified: '2021-04-30T02:04:25.531620'
 state: active
 type: dataset
 tags:
-  - Cause Of Death
+  - Children
+  - Health Conditions
   - Hus
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/vp9c-m6nq/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/vp9c-m6nq/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/bbhn-4mdn/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/bbhn-4mdn/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
