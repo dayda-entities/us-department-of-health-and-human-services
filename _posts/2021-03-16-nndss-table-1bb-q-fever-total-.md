@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1BB. Q fever, Total to Q fever, Chronic'
-created: '2021-03-16T19:51:17.039638'
-modified: '2021-05-07T10:08:26.394768'
+created: '2021-03-16T19:22:33.306355'
+modified: '2021-03-16T19:22:33.306361'
 state: active
 type: dataset
 tags:
