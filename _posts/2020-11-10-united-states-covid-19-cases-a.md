@@ -1,7 +1,7 @@
 ---
 title: United States COVID-19 Cases and Deaths by State over Time
 created: '2020-11-10T16:16:28.246819'
-modified: '2021-05-08T21:08:06.526403'
+modified: '2021-05-10T09:57:47.476230'
 state: active
 type: dataset
 tags:
