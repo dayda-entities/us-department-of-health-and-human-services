@@ -1,7 +1,7 @@
 ---
 title: NNDSS - TABLE 1JJ. Tularemia to  Vancomycin-intermediate Staphylococcus aureus
-created: '2020-11-10T16:17:17.717112'
-modified: '2021-04-21T22:50:19.307604'
+created: '2020-11-10T16:17:47.785068'
+modified: '2021-04-17T02:20:58.195306'
 state: active
 type: dataset
 tags:
@@ -13,8 +13,8 @@ tags:
   - Vancomycin Intermediate Staphylococcus Aureus
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/qsk4-8yy5/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/qsk4-8yy5/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/mik5-by93/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/mik5-by93/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
