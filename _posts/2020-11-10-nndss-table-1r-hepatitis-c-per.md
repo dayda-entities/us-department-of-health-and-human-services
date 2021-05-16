@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1R. Hepatitis C, perinatal infection to Influenza-associated
   pediatric mortality
-created: '2020-11-10T16:17:49.075141'
-modified: '2021-04-21T22:30:20.451055'
+created: '2020-11-10T16:17:26.741645'
+modified: '2021-04-30T02:01:44.689179'
 state: active
 type: dataset
 tags:
@@ -16,8 +16,8 @@ tags:
   - Perinatal Infection
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/tv5g-74as/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/tv5g-74as/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/xna8-x7qg/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/xna8-x7qg/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
