@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1N. Haemophilus influenzae, invasive disease, (age <5 years),
   Non-b serotype to Unknown serotype
-created: '2020-11-10T16:17:46.741096'
-modified: '2021-05-05T08:01:45.139186'
+created: '2020-11-10T16:16:27.467510'
+modified: '2021-04-17T02:33:07.890907'
 state: active
 type: dataset
 tags:
@@ -19,8 +19,8 @@ tags:
   - Unknown Serotype
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/cvcu-witw/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/cvcu-witw/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/u7wx-dav2/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/u7wx-dav2/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
