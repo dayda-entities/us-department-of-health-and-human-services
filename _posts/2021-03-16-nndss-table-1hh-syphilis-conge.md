@@ -1,7 +1,7 @@
 ---
 title: 'NNDSS - TABLE 1HH. Syphilis, Congenital to Syphilis, Primary and Secondary'
-created: '2021-03-16T19:49:34.009399'
-modified: '2021-05-07T10:08:00.817804'
+created: '2021-03-16T19:19:48.834917'
+modified: '2021-03-16T19:19:48.834924'
 state: active
 type: dataset
 tags:
