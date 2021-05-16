@@ -2,15 +2,38 @@
 title: >-
   AH Monthly provisional counts of deaths by age group and race/ethnicity for
   select causes of death
-created: '2021-03-16T18:56:53.922563'
-modified: '2021-03-16T18:56:53.922570'
+created: '2021-03-16T19:35:38.172203'
+modified: '2021-05-11T21:19:15.211523'
 state: active
 type: dataset
 tags:
   - Age
-  - Cause Of Death
+  - Age Group
+  - All Causes
+  - Alzheimer Disease
+  - Cancer
+  - Causes Of Death
+  - Cerebrovascular Disease
+  - Chronic Lower Respiratory Disease
+  - Coronavirus
+  - Covid 19
+  - Deaths
+  - Diabetes
+  - Diseases Of Heart
   - Hispanic Origin
+  - Influenza
+  - Kidney Disease
+  - Monthly
+  - Mortality
+  - Natural Cause
+  - Nchs
+  - Nvss
+  - Pneumonia
+  - Provisional
   - Race
+  - Respiratory Disease
+  - Septicemia
+  - United States
 groups: []
 csv_url: 'https://data.cdc.gov/api/views/r5pw-bk5t/rows.csv?accessType=DOWNLOAD'
 json_url: 'https://data.cdc.gov/api/views/r5pw-bk5t/rows.json?accessType=DOWNLOAD'
