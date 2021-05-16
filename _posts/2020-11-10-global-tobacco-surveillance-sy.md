@@ -1,19 +1,20 @@
 ---
-title: Global Tobacco Surveillance System (GTSS) - Global Adult Tobacco Survey (GATS)
-created: '2020-11-10T16:17:19.439489'
-modified: '2021-04-25T14:48:44.486616'
+title: Global Tobacco Surveillance System (GTSS) - Global Youth Tobacco Survey (GYTS)
+created: '2020-11-10T16:17:33.083288'
+modified: '2021-04-21T22:23:11.933470'
 state: active
 type: dataset
 tags:
-  - Adult
-  - Gats
+  - Global
   - Gtss
+  - Gyts
   - Osh
   - Tobacco
+  - Youth
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/4xf6-nrwk/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/4xf6-nrwk/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/57qw-ifet/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/57qw-ifet/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-2008-2017. Centers for Disease Control and Prevention (CDC).   Office on Smoking and Health (OSH) – Global Tobacco Surveillance System (GTSS) - Global Adult Tobacco Survey (GATS).    The Global Adult Tobacco Survey (GATS) is the global standard to systematically monitor adult tobacco use and track key tobacco control indicators. GATS is a nationally representative household survey of adults 15 years of age or older, using a standard protocol. It is intended to generate comparable data within and across countries. GATS enhances countries' capacity to design, implement and evaluate tobacco control interventions.
+1999-2018. The GYTS is a school-based survey that collects data on students aged 13–15 years using a standardized methodology for constructing the sample frame, selecting schools and classes, and processing data. The GYTS surveillance system is intended to enhance the capacity of countries to design, implement, and evaluate tobacco control and prevention programs. Funding for the GYTS has been provided by the Canadian Public Health Association, National Cancer Institute, United Nations Children Emergency Fund, and the World Health Organization—Tobacco Free Initiative.
