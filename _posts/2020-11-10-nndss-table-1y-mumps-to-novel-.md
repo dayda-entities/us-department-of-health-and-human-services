@@ -1,7 +1,7 @@
 ---
 title: NNDSS - TABLE 1Y. Mumps to Novel influenza A virus infections
-created: '2020-11-10T16:16:29.478340'
-modified: '2021-05-05T08:03:28.869870'
+created: '2020-11-10T16:17:46.407128'
+modified: '2021-04-17T02:56:11.759210'
 state: active
 type: dataset
 tags:
@@ -13,8 +13,8 @@ tags:
   - Novel Influenza A Virus Infections
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/yvsw-8ht9/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/yvsw-8ht9/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/cjin-8pa3/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/cjin-8pa3/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
