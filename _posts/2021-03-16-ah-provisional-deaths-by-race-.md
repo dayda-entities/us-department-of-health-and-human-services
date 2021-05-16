@@ -1,16 +1,24 @@
 ---
 title: 'AH Provisional Deaths By Race, Age, and Sex March-July, 2020'
-created: '2021-03-16T19:14:56.176583'
-modified: '2021-03-16T19:14:56.176590'
+created: '2021-03-16T19:46:39.052558'
+modified: '2021-04-25T14:57:04.375267'
 state: active
 type: dataset
 tags:
   - Age
+  - Age Group
+  - All Causes
+  - Coronavirus
   - Covid 19
   - Deaths
-  - Ethnicity
+  - Hispanic Origin
+  - Mortality
+  - Nchs
+  - Nvss
+  - Provisional
   - Race
   - Sex
+  - United States
 groups: []
 csv_url: 'https://data.cdc.gov/api/views/s9qn-46pq/rows.csv?accessType=DOWNLOAD'
 json_url: 'https://data.cdc.gov/api/views/s9qn-46pq/rows.json?accessType=DOWNLOAD'
