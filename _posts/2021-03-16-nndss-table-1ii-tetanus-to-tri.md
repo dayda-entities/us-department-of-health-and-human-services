@@ -1,7 +1,7 @@
 ---
 title: NNDSS - TABLE 1II. Tetanus to Trichinellosis
-created: '2021-03-16T19:40:10.156493'
-modified: '2021-05-07T10:06:01.011370'
+created: '2021-03-16T19:04:17.782337'
+modified: '2021-03-16T19:04:17.782346'
 state: active
 type: dataset
 tags:
