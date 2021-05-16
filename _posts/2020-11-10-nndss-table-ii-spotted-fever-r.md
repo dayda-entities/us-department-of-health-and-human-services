@@ -1,23 +1,35 @@
 ---
-title: NNDSS - Table II. Spotted Fever Rickettsiosis to Syphilis
-created: '2020-11-10T16:17:19.195522'
-modified: '2021-04-26T20:57:22.613868'
+title: >-
+  NNDSS - Table II. Spotted fever rickettsiosis to Syphilis, primary and
+  secondary
+created: '2020-11-10T16:18:18.674423'
+modified: '2021-04-21T22:49:59.223482'
 state: active
 type: dataset
 tags:
-  - '2015'
-  - Mmwr
+  - '2018'
   - Nedss
   - Netss
   - Nndss
-  - Rmsf
+  - Primary And Secondary
   - Spotted Fever Rickettsiosis
-  - Syphilis Primary And Secondary
+  - Syphilis
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/ekd3-qu3w/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/ekd3-qu3w/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/efpc-rr7b/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/efpc-rr7b/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-NNDSS - Table II. Spotted Fever Rickettsiosis to Syphilis - 2015.In this Table, provisional cases of selected notifiable diseases (≥1,000 cases reported during the preceding year), and selected low frequency diseases are displayed. The Table includes total number of cases reported in the United States, by region and by states, in accordance with the current method of displaying MMWR data.  Data on United States exclude counts from US territories. Note:These are provisional cases of selected national notifiable diseases, from the National Notifiable Diseases Surveillance System (NNDSS). NNDSS data reported by the 50 states, New York City, the District of Columbia, and the U.S. territories are collated and published weekly as numbered tables printed in the back of the Morbidity and Mortality Weekly Report (MMWR). Cases reported by state health departments to CDC for weekly publication are provisional because of ongoing revision of information and delayed reporting. Case counts in this table are presented as they were published in the MMWR issues. Therefore, numbers listed in later MMWR weeks may reflect changes made to these counts as additional information becomes available. Footnotes:C.N.M.I.: Commonwealth of Northern Mariana Islands. U: Unavailable.    -: No reported cases.    N: Not reportable.    NN: Not Nationally Notifiable.    NP: Nationally notifiable but not published.    Cum: Cumulative year-to-date counts.    Med: Median.    Max: Maximum. * Three low incidence conditions, rubella, rubella congenital, and tetanus, have been moved to Table 2 to facilitate case count verification with reporting jurisdictions. ��� Case counts for reporting year 2015 are provisional and subject to change. For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf. Data for TB are displayed in Table IV, which appears quarterly. �� Illnesses with similar clinical presentation that result from Spotted fever group rickettsia infections are reported as Spotted fever rickettsioses. Rocky Mountain spotted fever (RMSF) caused by Rickettsia rickettsii, is the most common and well-known spotted fever.
+NNDSS - Table II. Spotted fever rickettsiosis to Syphilis, primary and secondary - 2018. In this Table, provisional cases of selected notifiable diseases (≥1,000 cases reported during the preceding year), and selected low frequency diseases are displayed. The Table includes total number of cases reported in the United States, by region and by states or territory.
+
+Note:
+
+This table contains provisional cases of selected national notifiable diseases from the National Notifiable Diseases Surveillance System (NNDSS). NNDSS data from the 50 states, New York City, the District of Columbia and the U.S. territories are collated and published weekly on the NNDSS Data and Statistics web page (https://wwwn.cdc.gov/nndss/data-and-statistics.html). Cases reported by state health departments to CDC for weekly publication are provisional because of the time needed to complete case follow-up.  Therefore, numbers presented in later weeks may reflect changes made to these counts as additional information becomes available. The national surveillance case definitions used to define a case are available on the NNDSS web site at https://wwwn.cdc.gov/nndss/. Information about the weekly provisional data and guides to interpreting data are available at: https://wwwn.cdc.gov/nndss/infectious-tables.html.
+ 
+Footnotes:
+
+C.N.M.I.: Commonwealth of Northern Mariana Islands. 
+U: Unavailable. —: No reported cases. N: Not reportable. NA:  Not Available.  NN: Not Nationally Notifiable. NP: Nationally notifiable but not published. Cum: Cumulative year-to-date counts. Med: Median. Max: Maximum.
+ 
+* Case counts for reporting years 2017 and 2018 are provisional and subject to change. Data for years 2013 through 2016 are finalized. For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf.
