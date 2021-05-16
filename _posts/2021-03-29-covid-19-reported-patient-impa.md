@@ -1,19 +1,21 @@
 ---
-title: COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries
-created: '2021-03-29T23:34:19.122388'
-modified: '2021-05-08T21:07:55.533243'
+title: COVID-19 Reported Patient Impact and Hospital Capacity by State
+created: '2021-03-29T23:32:05.693601'
+modified: '2021-05-15T11:11:41.226546'
 state: active
 type: dataset
 tags:
+  - Covid
   - Covid 19
+  - Covid19
   - Hhs Covid 19
 groups: []
-csv_url: 'https://healthdata.gov/api/views/g62h-syeh/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://healthdata.gov/api/views/g62h-syeh/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://healthdata.gov/api/views/6xf2-c3ie/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://healthdata.gov/api/views/6xf2-c3ie/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-On April 30, 2021, this data set has had the following fields added:
+<br>On April 29, 2021, this data set has had the following fields added:
 previous_day_admission_adult_covid_confirmed_18-19
 previous_day_admission_adult_covid_confirmed_18-19_coverage
 previous_day_admission_adult_covid_confirmed_20-29_coverage
@@ -50,11 +52,12 @@ previous_day_admission_adult_covid_suspected_80+
 previous_day_admission_adult_covid_suspected_80+_coverage
 previous_day_admission_adult_covid_suspected_unknown
 previous_day_admission_adult_covid_suspected_unknown_coverage
-<b>
-The following dataset provides state-aggregated data for hospital utilization <b>in a timeseries format</b> dating back to January 1, 2020. These are derived from reports with facility-level granularity across three main sources: (1) HHS TeleTracking, (2) reporting provided directly to HHS Protect by state/territorial health departments on behalf of their healthcare facilities and (3) National Healthcare Safety Network (before July 15).
-<br>
-<br>The file will be updated regularly and provides the latest values reported by each facility within the last four days for all time. This allows for a more comprehensive picture of the hospital utilization within a state by ensuring a hospital is represented, even if they miss a single day of reporting.
-<br>
-<br>No statistical analysis is applied to account for non-response and/or to account for missing data.
-<br>
-<br>The below table displays one value for each field (i.e., column). Sometimes, reports for a given facility will be provided to more than one reporting source: HHS TeleTracking, NHSN, and HHS Protect. When this occurs, to ensure that there are not duplicate reports, prioritization is applied to the numbers for each facility.
+</br>
+
+<br>The following dataset provides state-aggregated data for hospital utilization. These are derived from reports with facility-level granularity across two main sources: (1) HHS TeleTracking, and (2) reporting provided directly to HHS Protect by state/territorial health departments on behalf of their healthcare facilities.</br>
+
+<br>The file will be updated daily and provides the latest values reported by each facility within the last four days. This allows for a more comprehensive picture of the hospital utilization within a state by ensuring a hospital is represented, even if they miss a single day of reporting.</br>
+
+<br>No statistical analysis is applied to account for non-response and/or to account for missing data.</br>
+
+<br>The below table displays one value for each field (i.e., column). Sometimes, reports for a given facility will be provided to both HHS TeleTracking and HHS Protect. When this occurs, to ensure that there are not duplicate reports, deduplication is applied: specifically, HHS selects the TeleTracking record provided directly by the facility over the state-provided data to HHS Protect.</br>
