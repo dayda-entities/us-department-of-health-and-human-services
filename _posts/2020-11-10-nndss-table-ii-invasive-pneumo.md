@@ -1,34 +1,38 @@
 ---
-title: 'NNDSS - Table II. Invasive pneumococcal disease, all ages'
-created: '2020-11-10T16:17:18.905201'
-modified: '2021-04-17T02:58:22.072516'
+title: 'NNDSS - Table II. Invasive Pneumococcal Diseases, All Ages'
+created: '2020-11-10T16:18:29.696992'
+modified: '2021-04-25T14:54:05.317825'
 state: active
 type: dataset
 tags:
-  - '2018'
+  - '2017'
   - All Ages
-  - Invasive Pneumococcal Disease
+  - Invasive Pneumococcal Diseases
+  - Mmwr
   - Nedss
   - Netss
   - Nndss
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/n24i-76tn/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/n24i-76tn/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/mbsb-z5f8/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/mbsb-z5f8/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-NNDSS - Table II. Invasive pneumococcal disease, all ages - 2018. In this Table, provisional cases of selected notifiable diseases (≥1,000 cases reported during the preceding year), and selected low frequency diseases are displayed. The Table includes total number of cases reported in the United States, by region and by states or territory.
+NNDSS - Table II. Invasive Pneumococcal Diseases, All Ages - 2017. In this Table, provisional cases of selected notifiable diseases (≥1,000 cases reported during the preceding year), and selected low frequency diseases are displayed. The Table includes total number of cases reported in the United States, by region and by states, in accordance with the current method of displaying MMWR data.  Data on United States exclude counts from US territories.
 
 Note:
+These are provisional cases of selected national notifiable diseases, from the National Notifiable Diseases Surveillance System (NNDSS). NNDSS data reported by the 50 states, New York City, the District of Columbia, and the U.S. territories are collated and published weekly as numbered tables printed in the back of the Morbidity and Mortality Weekly Report (MMWR). Cases reported by state health departments to CDC for weekly publication are provisional because of ongoing revision of information and delayed reporting. 
 
-This table contains provisional cases of selected national notifiable diseases from the National Notifiable Diseases Surveillance System (NNDSS). NNDSS data from the 50 states, New York City, the District of Columbia and the U.S. territories are collated and published weekly on the NNDSS Data and Statistics web page (https://wwwn.cdc.gov/nndss/data-and-statistics.html). Cases reported by state health departments to CDC for weekly publication are provisional because of the time needed to complete case follow-up.  Therefore, numbers presented in later weeks may reflect changes made to these counts as additional information becomes available. The national surveillance case definitions used to define a case are available on the NNDSS web site at https://wwwn.cdc.gov/nndss/. Information about the weekly provisional data and guides to interpreting data are available at: https://wwwn.cdc.gov/nndss/infectious-tables.html.
- 
+Case counts in this table are presented as they were published in the MMWR issues. Therefore, numbers listed in later MMWR weeks may reflect changes made to these counts as additional information becomes available. 
+
 Footnotes:
+ C.N.M.I.: Commonwealth of Northern Mariana Islands. 
 
-C.N.M.I.: Commonwealth of Northern Mariana Islands. 
-U: Unavailable. —: No reported cases. N: Not reportable. NA:  Not Available.  NN: Not Nationally Notifiable. NP: Nationally notifiable but not published. Cum: Cumulative year-to-date counts. Med: Median. Max: Maximum.
- 
-* Case counts for reporting years 2017 and 2018 are provisional and subject to change. Data for years 2013 through 2016 are finalized. For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf.  
+ U: Unavailable. —: No reported cases. N: Not reportable. NN: Not Nationally Notifiable. NP: Nationally notifiable but not published. Cum: Cumulative year-to-date counts. Med: Median. Max: Maximum. 
 
-† Includes drug resistant and susceptible cases of invasive pneumococcal disease.
+*Three low incidence conditions, rubella, rubella congenital, and tetanus, are in Table II to facilitate case count verification with reporting jurisdictions. 
+
+† Case counts for reporting year 2017 are provisional and subject to change. For further information on interpretation of these data, see http://wwwn.cdc.gov/nndss/document/ ProvisionalNationaNotifiableDiseasesSurveillanceData20100927.pdf. Data for tuberculosis are displayed in Table IV, which appears quarterly.
+
+§ Includes drug resistant and susceptible cases of Invasive Pneumococcal Disease. This condition was previously named Streptococcus pneumoniae invasive disease and cases were reported to CDC using different event codes to specify whether the cases were drug resistant or in a defined age group, such as <5 years.
