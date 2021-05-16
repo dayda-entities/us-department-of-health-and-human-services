@@ -1,22 +1,26 @@
 ---
-title: 'Nutrition, Physical Activity, and Obesity - Women, Infant, and Child'
-created: '2020-11-10T16:18:29.067950'
-modified: '2021-04-21T22:44:16.054458'
+title: >-
+  Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor
+  Surveillance System
+created: '2020-11-10T16:18:28.531397'
+modified: '2021-04-21T22:28:28.097322'
 state: active
 type: dataset
 tags:
-  - Children
+  - Adults
+  - Brfss
   - Dnpao
-  - Low Income
-  - Obese
+  - Fruit
+  - Nutrition
   - Obesity
   - Overweight
-  - Wic
-  - Wic Pc
+  - Physical Activity
+  - Vegetables
+  - Walking
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/735e-byxc/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/735e-byxc/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/hn4x-zwk7/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/hn4x-zwk7/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset includes data on weight status for children aged 3 months to 4 years old from Women, Infant, and Children Participant and Program Characteristics (WIC-PC). This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding. For more information about WIC-PC visit https://www.fns.usda.gov/wic/national-survey-wic-participants.
+This dataset includes data on adult's diet, physical activity, and weight status from Behavioral Risk Factor Surveillance System. This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding.
