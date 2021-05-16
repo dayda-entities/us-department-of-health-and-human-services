@@ -1,36 +1,38 @@
 ---
-title: >-
-  NCHS - Percent Distribution of Births to Unmarried Women by Age Group United
-  States
-created: '2020-11-10T16:18:13.592167'
-modified: '2021-04-25T19:48:50.106189'
+title: NCHS - Percent Distribution of Births for Females by Age Group United States
+created: '2020-11-10T16:18:13.781168'
+modified: '2021-04-17T02:45:02.558263'
 state: active
 type: dataset
 tags:
-  - Age
   - Births
+  - Maternal Age
   - Nchs
-  - Nonmarital
-  - Percent Distribution
+  - United States
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/hzd8-r9mj/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/hzd8-r9mj/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/isx2-c2ii/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/isx2-c2ii/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset includes percent distribution of births to unmarried women by age group in the United States since 1970.
+This dataset includes percent distribution of births for females by age group in the United States since 1933.
 
-Methods for collecting information on marital status changed over the reporting period and have been documented in:
-
-• Ventura SJ, Bachrach CA. Nonmarital childbearing in the United States, 1940–99. National vital statistics reports; vol 48 no 16. Hyattsville, Maryland: National Center for Health Statistics. 2000. Available from: http://www.cdc.gov/nchs/data/nvsr/nvsr48/nvs48_16.pdf.
-• National Center for Health Statistics. User guide to the 2013 natality public use file. Hyattsville, Maryland: National Center for Health Statistics. 2014. Available from: http://www.cdc.gov/nchs/data_access/VitalStatsOnline.htm.
+The number of states in the reporting area differ historically. In 1915 (when the birth registration area was established), 10 states and the District of Columbia reported births; by 1933, 48 states and the District of Columbia were reporting births, with the last two states, Alaska and Hawaii, added to the registration area in 1959 and 1960, when these regions gained statehood. Reporting area information is detailed in references 1 and 2 below. Trend lines for 1909–1958 are based on live births adjusted for under-registration; beginning with 1959, trend lines are based on registered live births.
 
 SOURCES
 
-CDC/NCHS, National Vital Statistics System, birth data (see http://www.cdc.gov/nchs/births.htm); public-use data files (see http://www.cdc.gov/nchs/data_access/Vitalstatsonline.htm); and CDC WONDER (see http://wonder.cdc.gov/).
+NCHS, National Vital Statistics System, birth data (see https://www.cdc.gov/nchs/births.htm); public-use data files (see https://www.cdc.gov/nchs/data_access/VitalStatsOnline.htm); and CDC WONDER (see http://wonder.cdc.gov/).
 
 REFERENCES
 
-1. Curtin SC, Ventura SJ, Martinez GM. Recent declines in nonmarital childbearing in the United States. NCHS data brief, no 162. Hyattsville, MD: National Center for Health Statistics. 2014. Available from: http://www.cdc.gov/nchs/data/databriefs/db162.pdf.
+1. National Office of Vital Statistics. Vital Statistics of the United States, 1950, Volume I. 1954. Available from: https://www.cdc.gov/nchs/data/vsus/vsus_1950_1.pdf.
 
-2. Martin JA, Hamilton BE, Osterman MJK, et al. Births: Final data for 2015. National vital statistics reports; vol 66 no 1. Hyattsville, MD: National Center for Health Statistics. 2017. Available from: https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_01.pdf.
+2. Hetzel AM. U.S. vital statistics system: major activities and developments, 1950-95. National Center for Health Statistics. 1997. Available from: https://www.cdc.gov/nchs/data/misc/usvss.pdf.
+
+3. National Center for Health Statistics. Vital Statistics of the United States, 1967, Volume I–Natality. 1969. Available from: https://www.cdc.gov/nchs/data/vsus/nat67_1.pdf.
+
+4. Martin JA, Hamilton BE, Osterman MJK, et al. Births: Final data for 2015. National vital statistics reports; vol 66 no 1. Hyattsville, MD: National Center for Health Statistics. 2017. Available from: https://www.cdc.gov/nchs/data/nvsr/nvsr66/nvsr66_01.pdf.
+
+5. Martin JA, Hamilton BE, Osterman MJK, Driscoll AK, Drake P. Births: Final data for 2016. National Vital Statistics Reports; vol 67 no 1. Hyattsville, MD: National Center for Health Statistics. 2018. Available from: https://www.cdc.gov/nvsr/nvsr67/nvsr67_01.pdf.
+
+6. Martin JA, Hamilton BE, Osterman MJK, Driscoll AK, Births: Final data for 2018. National vital statistics reports; vol 68 no 13. Hyattsville, MD: National Center for Health Statistics. 2019. Available from: https://www.cdc.gov/nchs/data/nvsr/nvsr68/nvsr68_13.pdf.
