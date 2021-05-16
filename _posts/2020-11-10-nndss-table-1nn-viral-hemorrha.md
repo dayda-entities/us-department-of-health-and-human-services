@@ -2,8 +2,8 @@
 title: >-
   NNDSS - TABLE 1NN. Viral hemorrhagic fevers, Junin virus to Viral hemorrhagic
   fevers, Lujo virus
-created: '2020-11-10T16:17:48.762033'
-modified: '2021-04-26T20:57:00.858935'
+created: '2020-11-10T16:18:48.858766'
+modified: '2021-04-13T00:15:51.995433'
 state: active
 type: dataset
 tags:
@@ -17,8 +17,8 @@ tags:
   - Viral Hemorrhagic Fevers
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/r8hr-3jkm/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/r8hr-3jkm/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/7ecz-2gu3/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/7ecz-2gu3/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
