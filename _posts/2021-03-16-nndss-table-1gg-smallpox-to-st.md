@@ -1,7 +1,7 @@
 ---
 title: NNDSS - TABLE 1GG. Smallpox to Streptococcal toxic shock syndrome
-created: '2021-03-16T19:32:26.532429'
-modified: '2021-05-07T10:04:28.244080'
+created: '2021-03-16T18:41:23.495421'
+modified: '2021-03-16T18:41:23.495429'
 state: active
 type: dataset
 tags:
