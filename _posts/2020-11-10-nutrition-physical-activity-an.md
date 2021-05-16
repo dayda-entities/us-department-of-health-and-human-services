@@ -1,21 +1,26 @@
 ---
-title: 'Nutrition, Physical Activity, and Obesity - American Community Survey'
-created: '2020-11-10T16:18:28.833922'
-modified: '2021-04-21T22:47:27.547561'
+title: >-
+  Nutrition, Physical Activity, and Obesity - Youth Risk Behavior Surveillance
+  System
+created: '2020-11-10T16:18:09.350845'
+modified: '2021-04-25T14:45:02.696668'
 state: active
 type: dataset
 tags:
-  - Acs
-  - American Community Survey
-  - Bike
+  - Adolescents
   - Dnpao
+  - Fruit
+  - Obesity
+  - Overweight
   - Physical Activity
-  - Walk
-  - Work
+  - Soda
+  - Tv
+  - Vegetables
+  - Yrbss
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/8mrp-rmkw/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/8mrp-rmkw/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/vba9-s8jp/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/vba9-s8jp/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset includes select data from the U.S. Census Bureau's American Community Survey (ACS) on the percent of adults who bike or walk to work. This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding. For more information about ACS visit https://www.census.gov/programs-surveys/acs/.
+This dataset includes data on adolescent's diet, physical activity, and weight status from Youth Risk Behavior Surveillance System (YRBSS). This data is used for DNPAO's Data, Trends, and Maps database, which provides national and state specific data on obesity, nutrition, physical activity, and breastfeeding. For more information about YRBSS visit https://www.cdc.gov/healthyyouth/data/yrbs/index.htm.
