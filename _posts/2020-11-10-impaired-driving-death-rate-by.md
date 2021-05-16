@@ -1,15 +1,17 @@
 ---
-title: 'Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 6 - Dallas'
-created: '2020-11-10T16:18:37.518491'
-modified: '2021-04-30T02:07:51.592585'
+title: >-
+  Impaired Driving Death Rate, by Age and Gender, 2012 & 2014, Region 7 - Kansas
+  City
+created: '2020-11-10T16:18:37.644784'
+modified: '2021-04-25T14:54:45.771384'
 state: active
 type: dataset
 tags:
   - Cdc
   - Centers For Disease Control And Prevention
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/k9ai-xgx2/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/k9ai-xgx2/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/ea3z-m7eh/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/ea3z-m7eh/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
