@@ -1,9 +1,7 @@
 ---
-title: >-
-  NNDSS - Table 1B. Arboviral diseases, neuroinvasive and non-neuroinvasive,
-  Jamestown Canyon virus disease to Powassan virus disease
-created: '2020-11-10T16:17:45.875635'
-modified: '2021-04-17T02:51:52.107552'
+title: 'NNDSS - Table 1B. Arboviral diseases, Jamestown Canyon to Powassan'
+created: '2020-11-10T16:16:42.408384'
+modified: '2021-04-25T15:01:06.420732'
 state: active
 type: dataset
 tags:
@@ -17,8 +15,8 @@ tags:
   - Powassan Virus Disease
   - Wonder
 groups: []
-csv_url: 'https://data.cdc.gov/api/views/9gny-cbhc/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.cdc.gov/api/views/9gny-cbhc/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.cdc.gov/api/views/eez9-q5m5/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.cdc.gov/api/views/eez9-q5m5/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
